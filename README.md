@@ -2,7 +2,7 @@
 
 > Building clean, opinionated tools for professionals — mostly with [Claude Code](https://claude.ai/code).
 
-Audiovisual tech specialist at **SCC France** by day. Indie developer by night.  
+IT tech specialist at **SCC France** by day. Indie developer by night.  
 I build side projects that solve real problems: no bloat, no accounts required, no dark patterns.
 
 ---
