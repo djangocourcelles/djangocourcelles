@@ -30,12 +30,6 @@ I build side projects that solve real problems: no bloat, no accounts required, 
 
 ---
 
-## 📊 GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=djangocourcelles&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 ## 📬 Contact
 
 - 🌐 [sigdeck.com](https://sigdeck.com)
